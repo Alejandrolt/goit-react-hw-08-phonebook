@@ -12,7 +12,7 @@ export const MenuBar = () => {
       style={{
         display: 'block',
         borderBottom: '3px solid #2874A6',
-        backgroundColor: '#a1dfff',
+        backgroundColor: '#DEFC07',
       }}
     >
       <Container>
