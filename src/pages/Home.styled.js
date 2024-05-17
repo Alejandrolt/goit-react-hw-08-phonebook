@@ -5,7 +5,7 @@ export const Container = styled.div`
   grid-template-columns: 600px 600px;
   justify-content: center;
   margin: 0 auto;
-  padding: 0px 50px;
+  padding: 0px 60px;
   max-width: 1280px;
 `;
 
