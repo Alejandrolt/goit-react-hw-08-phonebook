@@ -11,7 +11,7 @@ export const MenuBar = () => {
     <div
       style={{
         display: 'block',
-        borderBottom: '3px solid #2874A6',
+        borderBottom: '3px solid #049dd9',
         backgroundColor: '#DEFC07',
       }}
     >
