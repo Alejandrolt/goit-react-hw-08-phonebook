@@ -7,14 +7,11 @@ export const Home = () => {
         <Description>
           <h1>HOME</h1>
           <p>
-            The company itself is a very successful company. We can help him,
-            because the pain of the mind's problems here prevents them from
-            happening no matter what he seeks. At what moment did you choose
-            this question of mind? The client himself, the client, may pursue
-            the adipisation of the company. And the pain, and the flattery, that
-            repel him when it comes to choosing. Are some people forced to
-            suffer pain for what they don't, and the most deserving pains are
-            the guilt and, above all, not the benefits?
+            Our dream of transforming the public services industry in Colombia
+            and the world began in 2013. Juan Pablo Rojas, our CEO, discovered
+            the power of load curves to measure energy consumption in real time
+            and in this way create exponential strategies. that would change the
+            behavior of people's consumption habits to be more efficient.
           </p>
         </Description>
       </Container>
